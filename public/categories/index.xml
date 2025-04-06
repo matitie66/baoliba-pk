@@ -1,7 +1,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - category - BaoLiba - پاکستانی انفلوئنسرز اور برانڈز کو دنیا سے جوڑنے والا پلیٹ فارم</title>
-        <link>http://localhost:1313/categories/</link>
+        <link>https://baoliba.pk/categories/</link>
         <description>Categories - category - BaoLiba - پاکستانی انفلوئنسرز اور برانڈز کو دنیا سے جوڑنے والا پلیٹ فارم</description>
-        <generator>Hugo -- gohugo.io</generator><language>ur</language><atom:link href="http://localhost:1313/categories/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>ur</language><atom:link href="https://baoliba.pk/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>
